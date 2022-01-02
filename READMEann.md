@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ansh
 - 👀 I’m interested in python as of now...
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on idk :-|
 - 📫 How to reach me DM on @anshh_0(Instagram)
 
 <!---
