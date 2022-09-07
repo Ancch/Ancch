@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ansh
 - 👀 I’m interested in python as of now...
 - 🌱 I’m currently learning python
-- 📫 How to reach me DM on @anshh_0(Instagram)
+- 📫 DM me on @anshh_0(Instagram) for any 
 
 <!---
 Ancch/Ancch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
