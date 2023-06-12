@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ansh
-- 👀 I’m interested in python as of now...
-- 🌱 I’m currently learning python
+- 👀 I’m interested in cpp , problem solving 
+- i am effecient in C, C++, python, mysql
+- 🌱 I’m currently learning DSA
 - 📫 DM me on @anshh_0(Instagram)
 
 <!---
